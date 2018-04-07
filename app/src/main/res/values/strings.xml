@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MakeSchedule</string>
+    <string name="gen_schedule">Generate Schedule</string>
+</resources>
